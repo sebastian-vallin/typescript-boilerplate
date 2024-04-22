@@ -10,26 +10,24 @@ To get started, clone the repository and run the following command:
 npm install
 ```
 
-## Scripts
+## Available scripts
 
-The following scripts are available:
-
+### Build and start the project in production mode
 ```sh
-# Build and start the project in production mode
 npm run start
 ```
 
+### Starts the project in watch mode
 ```sh
-# Starts the project in watch mode
 npm run dev
 ```
 
+### Build the project in watch mode
 ```sh
-# Build the project in watch mode
 npm run watch
 ```
 
+### Builds the project to the "out" folder
 ```sh
-# Builds the project to the "out" folder
 npm run build
 ```
